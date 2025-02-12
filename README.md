@@ -81,16 +81,3 @@ The project does not include the whole data flow. It shows the main flow and fun
 
 Install npm and run npm init.
 
-## Motivation
-
-I really felt engaged in developing the project. I learned a lot by coding on it and building and refactoring all the new features, which I mentioned in the introduction.
-
-## License
-
-This was a learning project for a portfolio project! You can not claim it as your own or use it to teach.
-@copyright @jonasschmedtmann
-
-## Contributors
-
-- Jonas Schmedtmann - https://github.com/jonasschmedtmann
-- Benjamin Scharf - https://github.com/BenChis
